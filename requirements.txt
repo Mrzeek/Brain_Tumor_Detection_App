@@ -1,8 +1,7 @@
-plotly==4.14.3
-scipy==1.5.2
-click==8.0.4
-streamlit==0.88.0
-numpy==1.26.2
-Pillow==8.3.2
-tensorflow==2.6.0
-opencv-python==4.5.3.56
+numpy==1.26.4
+opencv_python==4.9.0.80
+Pillow==10.3.0
+streamlit==1.32.2
+tensorflow==2.16.1
+tensorflow_intel==2.16.1
+streamlit==1.30.0
