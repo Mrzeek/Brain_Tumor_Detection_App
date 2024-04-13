@@ -109,7 +109,7 @@ if uploaded_file is not None:
         # Make a prediction on the preprocessed image
         if st.sidebar.button("Make Prediction"):
             prediction = predict(preprocessed_image)
-            with st.spinner('Please wait the model is predicting ⌛.... '):
+            with st.spinner('Please wait the model is predicting.... ⌛ '):
                 time.sleep(5)
             st.success('Done!')
 
