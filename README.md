@@ -65,7 +65,7 @@ Contributions are welcome! Please feel free to submit a pull request or create a
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE.md)
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Mrzeek/Brain_Tumor_Detection_App/blob/main/LICENSE)
  file for details.
 
 ## Contact
