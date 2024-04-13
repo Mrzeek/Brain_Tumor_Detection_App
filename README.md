@@ -6,7 +6,7 @@ Welcome to the Brain Tumor Detection App! This application utilizes deep learnin
 
 Experience the application live: [Brain Tumor Detection App](https://braintumordetectionapp-deeplearning.streamlit.app/)
 
-![Brain Tumor Detection App](screenshot.png)
+![Brain Tumor Detection App](https://github.com/Mrzeek/Brain_Tumor_Detection_App/blob/main/Screenshot%202024-04-14%20005751.png)
 
 ## Features
 
