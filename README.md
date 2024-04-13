@@ -16,7 +16,7 @@ Experience the application live: [Brain Tumor Detection App](https://braintumord
 
 ## Installation
 
-This application requires Python 3.6+ and several dependencies, listed in `requirements.txt`.
+This application requires Python 3.11 and several dependencies, listed in `requirements.txt`.
 
 To set up the local development environment, follow these steps:
 
@@ -65,7 +65,8 @@ Contributions are welcome! Please feel free to submit a pull request or create a
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE.md file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.md)
+ file for details.
 
 ## Contact
 
